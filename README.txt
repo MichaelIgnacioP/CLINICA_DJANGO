@@ -6,8 +6,7 @@ PARA INCIAR EL PROYECTO SEGUIR LAS SIGUIENTES INSTRUCCIONES:
 3 .- crear entorno virtual python -m venv venv
 4 .- activar entorno virtual ./venv/Scripts/activate
 5 .- pip install -r requirement.txt
-6 .- python manage.py makemigrations
-7 .- python manage.py migrate
-8 .- python manage.py runserver
+6 .- python manage.py migrate
+7 .- python manage.py runserver
 
 Michael Padilla F.
